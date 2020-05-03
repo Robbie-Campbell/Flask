@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #CCCCCC;
+    font-family: Bahnschrift;
+}
+#addItem{
+    width: 100%;
+    justify-self: center;
+}
+.container{
+    width:100vw;
+    justify-content: center;
+}
+.table{
+    width:1000px;
+    margin: auto;
+}
+.table td{
+    justify-content: space-evenly;
+    border: 1px solid white;
+}
